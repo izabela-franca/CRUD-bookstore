@@ -1,4 +1,4 @@
-<h1 align="center"> CRUD Livraria </h1>
+<h1 align="center"> CRUD Livraria  - API Rest com Express e MongoDB</h1>
 
 <p align="center">
 Olá, sejam bem-vindos(as)!
@@ -29,7 +29,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Descrição
 
-CRUD de uma livraria utilizando o banco de dados MongoDB. Também foi implantando a correlação de autores e livros através de referências.
+CRUD de uma livraria utilizando o banco de dados MongoDB, com requisições feitas pelo Postman e seguindo o modelo de arquitetura REST.
 
 
 ## :memo: Licença
